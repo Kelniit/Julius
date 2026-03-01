@@ -1,2 +1,2 @@
 # Julius
-Julius : Personalized Your Film Using Recommendation System 👋 🇮🇩 🇮🇹 !
+Julius : Personalized Your Film Using Recommendation System !
